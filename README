@@ -1,0 +1,5 @@
+Version History :
+    Version 1.0.0, 2018/08/19
+
+Introduction :
+    This is just a simple code to let C++ code could communicate with TCL by using "Tcl_EvalFile" and "Tcl_Eval" functions.
